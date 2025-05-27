@@ -1,21 +1,19 @@
 {
     "id": "anime-hay",
-    "name": "ANIME HAY",
+    "name": "anime hay",
     "version": "1.0.0",
-    "manifestURI": "https://raw.githubusercontent.com/niyakipham/model-wibu-relax/refs/heads/main/animehay/manifest.json",
+    "manifestURI": "",
     "language": "typescript",
     "type": "plugin",
-    "description": "ANIME VIETSUB",
-    "author": "Hoangvu",
+    "description": "xem anime vietsub",
+    "author": "hoangvu",
     "icon": "",
     "website": "",
-    "lang": "VI",
+    "lang": "multi",
     "payloadURI": "https://raw.githubusercontent.com/hoangvu12/kaguya-modules/refs/heads/main/src/modules/animehay/index.ts",
     "plugin": {
         "version": "1",
-        "permissions": {
-            "scopes": ["storage"]
-        }
+        "permissions": {}
     },
     "isDevelopment": true
 }
